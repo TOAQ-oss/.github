@@ -1,6 +1,4 @@
-<div align="center">
-    <a href="https://discord.gg/7Z5w95fFRm" target="_blank"><img src="https://github.com/TOAQ-Company/.github/blob/master/profile/toaq_banner.png?raw=true" alt="toaq logo"></a>
-</div>
+![Open Source at TOAQ](https://github.com/TOAQ-Company/.github/blob/master/profile/toaq_banner.png?raw=true)
 
 ## Get Involved
 
