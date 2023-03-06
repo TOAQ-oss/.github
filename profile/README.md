@@ -5,6 +5,6 @@
 Now we are opening up to the open-source community. We will offer different tools to each other to help you in your innovations.
 
 * [Explore public source code](https://github.com/orgs/TOAQ-Company/repositories)
-* [Look for apply to jobs]()
+* [Look to apply to jobs]()
 
 Please, pay attention to the license associated to each repository.
