@@ -1,4 +1,4 @@
-[Banner of TOAQ](https://github.com/TOAQ-Company/.github/blob/master/profile/toaq_banner.png?raw=true)
+![Banner of TOAQ](https://github.com/TOAQ-Company/.github/blob/master/profile/toaq_banner.png?raw=true)
 
 ## Getting involved
 
