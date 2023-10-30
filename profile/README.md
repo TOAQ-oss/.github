@@ -7,6 +7,3 @@ TOAQ insists on open-source to offer innovative solutions to all developers so t
 * Explore public source code](https://github.com/orgs/TOAQ-oss/repositories)
 
 Please pay attention to the license associated with each repository.
-
-
-Translated with www.DeepL.com/Translator (free version)
