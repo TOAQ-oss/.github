@@ -4,6 +4,6 @@
 
 TOAQ insists on open-source to offer innovative solutions to all developers so that they can realize their projects without difficulty.
 
-* Explore public source code](https://github.com/orgs/TOAQ-oss/repositories)
+* [Explore public source code](https://github.com/orgs/TOAQ-oss/repositories)
 
 Please pay attention to the license associated with each repository.
