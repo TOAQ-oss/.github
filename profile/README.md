@@ -1,10 +1,12 @@
-![Open Source at TOAQ](https://github.com/TOAQ-Company/.github/blob/master/profile/toaq_banner.png?raw=true)
+[Banner of TOAQ](https://github.com/TOAQ-Company/.github/blob/master/profile/toaq_banner.png?raw=true)
 
-## Get Involved
+## Getting involved
 
-Now we are opening up to the open-source community. We will offer different tools to each other to help you in your innovations.
+TOAQ insists on open-source to offer innovative solutions to all developers so that they can realize their projects without difficulty.
 
-* [Explore public source code](https://github.com/orgs/TOAQ-oss/repositories)
-* [Look to apply to jobs]()
+* Explore public source code](https://github.com/orgs/TOAQ-oss/repositories)
 
-Please, pay attention to the license associated to each repository.
+Please pay attention to the license associated with each repository.
+
+
+Translated with www.DeepL.com/Translator (free version)
