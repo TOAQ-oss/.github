@@ -9,4 +9,4 @@ In the spirit of open source, we invite you to follow us on other platforms such
 
 Please pay attention to the license associated with each repository.
 
-To keep up to date with the company's open source news, it's best to follow us on [X (formerly Twitter)](https://twitter.com/TOAQ_Company).
+To keep up to date with the company's open source news, it's best to follow us on [X (formerly Twitter)](https://twitter.com/TOAQ_Company) or [LinkedIn](https://www.linkedin.com/company/toaq).
