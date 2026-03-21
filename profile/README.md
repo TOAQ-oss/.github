@@ -19,6 +19,8 @@ TOAQ is dedicated to the rigorous study of cognitive sciences and their applicat
 
 This organization (`TOAQ-oss`) hosts the public repositories, datasets, and tools that support the TOAQ Ecosystem.
 
+**With the goal of actively contributing to the open-source community, we created the [Omni-Core](https://omni-core.org) project, which aims to release packages based on the *“Write Once, Run Everywhere”* philosophy.**
+
 ## 🔬 Core Initiatives
 
 * **Cognitive Modeling:** Open-source architectures focusing on non-linear computational models and artificial cognition.
